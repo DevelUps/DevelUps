@@ -1,8 +1,13 @@
+<p align='center'>
+  <img src='https://raw.githubusercontent.com/DevelUps/main/Assets/banner-github-pierre-grandett.png' alt='' width='100%'/>
+</p>
+
+
+
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp5OTR5YXEzZ3E5NXg0emJyczZkdjV4OWpjM28zdWtuYmZlYmUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcE4NmvORkx9u/giphy.gif" width="100"/> Hello, I'm [<span style='color:#0A66C2'>Pierre Grandett</span>](https://www.linkedin.com/in/pierregett/)
 
-<p align='center'>
-  <img src='https://www.canva.com/design/DAGf79wl6v0/f07hYAE5neZl8y7zKwRtyQ/view?utm_content=DAGf79wl6v0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf038e7232d' alt='Banner de Pierre Grandett' width='100%'/>
-</p>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierregett/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevelUps)
