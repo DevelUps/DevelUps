@@ -1,152 +1,68 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página Web de Pierre Grandett</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
-        body {
-            font-family: 'Orbitron', sans-serif;
-            text-align: center;
-            background: linear-gradient(180deg, #0a001a, #15002b, #1f003d);
-            color: #d1c4e9;
-            margin: 0;
-            padding: 0;
-            overflow-x: hidden;
-        }
-        header {
-            background: linear-gradient(135deg, #200040, #3b0075, #4b0082);
-            color: #e0e0e0;
-            padding: 30px;
-            font-size: 2.5em;
-            font-weight: bold;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            box-shadow: 0px 4px 20px rgba(128, 0, 255, 0.7);
-            border-bottom: 3px solid rgba(255, 255, 255, 0.2);
-        }
-        .banner {
-            width: 100%;
-            height: 250px;
-            background: url('https://i.imgur.com/weNbhGZ.png') no-repeat center;
-            background-size: cover;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0px 4px 20px rgba(128, 0, 255, 0.6);
-        }
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 20px;
-        }
-        .social-links img {
-            width: 40px;
-            height: 40px;
-            transition: transform 0.3s ease, filter 0.3s ease;
-            filter: drop-shadow(0px 0px 10px #8000ff);
-        }
-        .social-links img:hover {
-            transform: scale(1.2);
-            filter: drop-shadow(0px 0px 15px #8000ff);
-        }
-        section {
-            margin: 20px auto;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.1);
-            box-shadow: 0px 0px 20px rgba(128, 0, 255, 0.8);
-            width: 80%;
-            border-radius: 15px;
-            backdrop-filter: blur(15px);
-            border: 2px solid rgba(128, 0, 255, 0.5);
-        }
-        footer {
-            background: linear-gradient(135deg, #200040, #3b0075, #4b0082);
-            color: white;
-            padding: 15px;
-            font-size: 1em;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-            font-weight: bold;
-            box-shadow: 0px -4px 20px rgba(128, 0, 255, 0.6);
-        }
-        a {
-            color: #b388ff;
-            text-decoration: none;
-            font-weight: bold;
-            transition: color 0.3s;
-        }
-        a:hover {
-            text-decoration: underline;
-            color: #d1c4e9;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        Hola, soy <a href="https://github.com/DevelUps">Pierre Grandett</a> 👾
-    </header>
-    <div class="banner"></div>
-    
-    <div class="social-links">
-        <a href="https://github.com/DevelUps" target="_blank">
-            <img src="https://img.shields.io/github/followers/DevelUps?style=social" alt="GitHub">
-        </a>
-        <a href="https://www.linkedin.com/in/pierregett/" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn">
-        </a>
-        <a href="https://youtube.com/aristidevs?sub_confirmation=1" target="_blank">
-            <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social" alt="YouTube">
-        </a>
-        <a href="https://www.twitch.tv/aristidevs" target="_blank">
-            <img src="https://img.shields.io/twitch/status/aristidevs?style=social" alt="Twitch">
-        </a>
-        <a href="https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield" target="_blank">
-            <img src="https://img.shields.io/badge/-Discord-7289DA?style=social&logo=discord" alt="Discord">
-        </a>
-    </div>
-    
-    <section>
-        <h2>Sobre mí</h2>
-        <p>⭐ QA Software Engineer (SDET) y especialista en analítica de datos.</p>
-        <p>📲 Experto en pruebas manuales y automatizadas.</p>
-        <p>🎥 Compartiendo conocimientos sobre QA y Automatización.</p>
-        <p>✏️ Publicaciones técnicas en mi blog.</p>
-        <p>📗 Autor de contenido sobre testing y automatización.</p>
-    </section>
-    
-    <section>
-        <h2>GitHub Analytics</h2>
-        <p align="center">
-            <a href="https://github.com/DevelUps">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevelUps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevelUps&layout=compact&langs_count=8&theme=tokyonight"/>
-            </a>
-        </p>
-    </section>
-    
-    <footer>
-        <p>&copy; 2025 Pierre Grandett</p>
-    </footer>
-</body>
-</html>
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp5OTR5YXEzZ3E5NXg0emJyczZkdjV4OWpjM28zdWtuYmZlYmUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcE4NmvORkx9u/giphy.gif" width="100"/> Hello, I'm [<span style='color:#0A66C2'>Pierre Grandett</span>](https://www.linkedin.com/in/pierregett/)
 
-    
-    <section>
-        <h2>GitHub Analytics</h2>
-        <p align="center">
-            <a href="https://github.com/DevelUps">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevelUps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevelUps&layout=compact&langs_count=8&theme=tokyonight"/>
-            </a>
-        </p>
-    </section>
-    
-    <footer>
-        <p>&copy; 2025 Pierre Grandett</p>
-    </footer>
-</body>
-</html>
+<p align='center'>
+  <img src='https://www.canva.com/design/DAGf79wl6v0/f07hYAE5neZl8y7zKwRtyQ/view?utm_content=DAGf79wl6v0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf038e7232d' alt='Banner de Pierre Grandett' width='100%'/>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierregett/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevelUps)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierregrandett@gmail.com)
+
+## 👨‍💻 Sobre Mí
+
+## 🛠 Tecnologías & Herramientas
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+## 📊 Estadísticas del Repositorio
+
+![Pierre Grandett GitHub stats](https://github-readme-stats.vercel.app/api?username=DevelUps&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelUps&layout=compact&theme=dark)
+
+
+🚀 **QA Software Engineer (SDET) | Especialista en Analítica de Datos**
+
+- 🔹 Experto en **pruebas manuales y automatizadas** para aplicaciones web.
+- 🛠️ Trabajo con **Postman, Swagger, Selenium, Katalon Studio, Azure DevOps y xUnit**.
+- 💻 Conocimientos en **C#, Python, HTML, JSON**.
+- ⚡ Experiencia en **metodologías ágiles (Scrum, Kanban)** y prácticas de **ciberseguridad**.
+- 📊 Aplicación de **IA en QA** para optimización de procesos.
+
+## 💼 Experiencia Profesional
+
+### 🔹 Ingeniero de Automatización QA | Start Left™ Security (2023 - 2025)
+- Desarrollo y ejecución de **pruebas automatizadas**.
+- Integración con **Azure DevOps** y reportes de calidad.
+
+### 🔹 Técnico de Diseño y Planeación | OPTECOM SAS (2021 - 2023)
+- Diseño de **soluciones en telecomunicaciones**.
+- Pruebas de calidad y aseguramiento técnico.
+
+### 🔹 QA Tester | DST (2017)
+- Pruebas funcionales y regresión para **aplicaciones web**.
+- Documentación de hallazgos y mejora continua.
+
+## 🎓 Educación
+
+- 📘 **Ingeniería en Desarrollo de Software** - Politécnico Grancolombiano (2024)
+- 📘 **Tecnología en ADSI** - SENA (2015)
+- 📘 **Técnico en ADSI** - Universidad Autónoma del Caribe (2013)
+
+## 🏆 Certificaciones
+
+- 🏅 **Master: Katalon Studio Test Automation - Udemy**
+- 🏅 **Unit Testing with xUnit on .NET - Udemy**
+- 🏅 **API Testing with Postman - Udemy**
+- 🏅 **Scrum Foundation Professional Certificate SFPC™ - CertiProf**
+
+
+## 🎥 Últimos Videos en YouTube
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Explorando QA y Automatización 🚀💡](https://ytcards.demolab.com/?id=5B8thzFAX-I&title=Explorando+QA+y+Automatizaci%C3%B3n+%F0%9F%9A%80%F0%9F%92%A1&lang=en&timestamp=1739827376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=5B8thzFAX-I)
+[![Tips para pruebas automatizadas](https://ytcards.demolab.com/?id=GpPdRhQo0zc&title=Tips+para+pruebas+automatizadas&lang=en&timestamp=1739381523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=GpPdRhQo0zc)
+<!-- END YOUTUBE-CARDS -->
+
