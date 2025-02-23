@@ -1,18 +1,20 @@
 <p align='center'>
   <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
   
-<a href="https://www.linkedin.com/in/pierregett/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/DevelUps">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" />
-</a>
-<a href="mailto:pierregrandett@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/+573103131318">
-  <img src="https://img.shields.io/badge/WhatsApp-%2378E42C.svg?style=plastic&logo=whatsapp&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/pierregett/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevelUps" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:pierregrandett@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+573103131318" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/WhatsApp-%2378E42C.svg?style=plastic&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 
 <h1 align="left" style="font-size: 20px; font-weight: bold;">
   About Me
