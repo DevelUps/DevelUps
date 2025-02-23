@@ -1,6 +1,9 @@
 <p align='center'>
   <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
   
+<p align='center' style="white-space: nowrap;">
+  <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
+  
   <a href="https://www.linkedin.com/in/pierregett/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
   </a>
@@ -14,6 +17,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-%2378E42C.svg?style=plastic&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
 
 
 <h1 align="left" style="font-size: 20px; font-weight: bold;">
