@@ -1,11 +1,16 @@
-<p align='center'>
-  <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%'/>
-</p>
 
 
 
 
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp5OTR5YXEzZ3E5NXg0emJyczZkdjV4OWpjM28zdWtuYmZlYmUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcE4NmvORkx9u/giphy.gif" width="100"/> Hello, I'm [<span style='color:#0A66C2'>Pierre Grandett</span>](https://www.linkedin.com/in/pierregett/)
+
+
+
+
+
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp5OTR5YXEzZ3E5NXg0emJyczZkdjV4OWpjM28zdWtuYmZlYmUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcE4NmvORkx9u/giphy.gif" width="100"/> 
+  About Me
+</h1>
 
 
 
@@ -14,7 +19,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevelUps)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierregrandett@gmail.com)
 
-## 👨‍💻 Sobre Mí
+
 
 ## 🛠 Tecnologías & Herramientas
 
