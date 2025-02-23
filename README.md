@@ -1,19 +1,9 @@
-
-
-
-
-
-
-
-
-
-<h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp5OTR5YXEzZ3E5NXg0emJyczZkdjV4OWpjM28zdWtuYmZlYmUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcE4NmvORkx9u/giphy.gif" width="100"/> 
+<p align='center'>
+  <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
+</p>
+<h1 align="left">
   About Me
 </h1>
-
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierregett/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevelUps)
