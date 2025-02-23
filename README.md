@@ -1,7 +1,5 @@
-<p align='center'>
-  <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
-  
-<p align='center' style="white-space: nowrap;">
+
+  <p align='center' style="white-space: nowrap;">
   <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
   
   <a href="https://www.linkedin.com/in/pierregett/" style="display: inline-block;">
