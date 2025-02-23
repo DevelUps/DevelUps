@@ -1,6 +1,5 @@
-<p align='center'>
-  <img src='[https://raw.githubusercontent.com/DevelUps/main/Assets/banner-github-pierre-grandett.png](https://github.com/DevelUps/DevelUps/blob/master/Assets/banner-github-pierre-grandett.png.png)' alt='' width='100%'/>
-</p>
+<img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%'/>
+
 
 
 
