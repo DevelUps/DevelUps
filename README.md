@@ -1,46 +1,82 @@
-# Pierre Grandett | QA Software Engineer | Automation Specialist
-
-![Profile Image](https://your-image-link.com)  
-
-Bienvenido a mi portafolio profesional, donde comparto mis proyectos y experiencia como **Ingeniero de Software especializado en Automatización de QA**. Mi objetivo es mejorar la calidad y eficiencia del software mediante la automatización y pruebas exhaustivas.
-
-## 🚀 Habilidades Técnicas
-- **Automatización de QA:** Selenium, Playwright, Azure DevOps
-- **Pruebas de API:** Postman, Swagger
-- **Lenguajes de Programación:** C#, Python, JavaScript
-- **Ciberseguridad:** Herramientas de prueba de seguridad
-- **Pruebas de Integración:** xUnit
-
-## 🌟 Proyectos Destacados
-- [Automatización de Pruebas con Selenium](https://github.com/pierregithub/QA-Automation)  
-  Framework de automatización de pruebas para aplicaciones web.
-- [Pruebas de API con Postman](https://github.com/pierregithub/API-Testing)  
-  Colección de pruebas de APIs utilizando Postman para diversas aplicaciones.
-- [Framework de Pruebas con Playwright](https://github.com/pierregithub/Playwright-Framework)  
-  Pruebas de rendimiento y UI utilizando Playwright para mejorar la experiencia del usuario.
-
-## 📢 ¿Por qué trabajar conmigo?
-- **Compromiso con la calidad**: Enfocado en entregar software robusto y eficiente.
-- **Innovación**: Utilizo las últimas herramientas y tecnologías para mejorar los procesos de prueba.
-- **Comunicación**: Siempre en contacto para garantizar que las necesidades sean claras y se cumplan.
-
-## 📱 Contacto
-Conéctate conmigo a través de los siguientes canales:
-- 📧 [Correo electrónico](mailto:pierregithub@example.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pierregithub)  
-- 📱 [WhatsApp](https://wa.me/1234567890)  
-- 🌐 [Página Web Personal](https://www.tupagina.com)  
-- 📸 [Instagram](https://www.instagram.com/digitalservicesbq)  
-- 📘 [Facebook](https://www.facebook.com/pierregithub)
-
-Gracias por visitar mi perfil. Si tienes alguna pregunta o deseas colaborar en proyectos, ¡no dudes en ponerte en contacto!
-
----
-
-### Lo que hemos cambiado:
-1. **Imagen de Perfil:** Agregué un espacio para una imagen de perfil que puedes subir. Esto hace que tu perfil sea visualmente más atractivo.
-2. **Emojis:** Utilicé emojis para destacar secciones clave, lo que ayuda a que la lectura sea más dinámica y atractiva.
-3. **Presentación de Proyectos:** Mejoré la presentación de tus proyectos para que sea más clara y accesible.
-
-¿Qué te parece este estilo? Si te gusta, podemos continuar con los siguientes pasos o hacer cualquier ajuste que desees.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Web de Pierre Grandett</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .social-links img {
+            width: 40px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h1 align="center">Hola, soy <a href="https://github.com/DevelUps">Pierre Grandett</a> 👋</h1>
+    </div>
+    <img src="https://i.imgur.com/weNbhGZ.png" alt="Pierre Grandett">
+    
+    <section>
+        <h2>Sobre mí</h2>
+        <p>⭐ QA Software Engineer (SDET) y especialista en analítica de datos.</p>
+        <p>📲 Experto en pruebas manuales y automatizadas.</p>
+        <p>🎥 Compartiendo conocimientos sobre QA y Automatización.</p>
+        <p>✏️ Publicaciones técnicas en mi blog.</p>
+        <p>📗 Autor de contenido sobre testing y automatización.</p>
+    </section>
+    
+    <section>
+        <h2>Redes Sociales</h2>
+        <div class="social-links">
+            <a href="https://github.com/DevelUps" target="_blank">
+                <img src="https://img.shields.io/github/followers/DevelUps?style=social" alt="GitHub">
+            </a>
+            <a href="https://www.linkedin.com/in/pierregett/" target="_blank">
+                <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn">
+            </a>
+        </div>
+    </section>
+    
+    <section>
+        <h2>GitHub Analytics</h2>
+        <p align="center">
+            <a href="https://github.com/DevelUps">
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevelUps&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevelUps&layout=compact&langs_count=8&theme=algolia"/>
+            </a>
+        </p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Pierre Grandett</p>
+    </footer>
+</body>
+</html>
 
