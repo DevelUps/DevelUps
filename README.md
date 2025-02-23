@@ -1,15 +1,28 @@
 <p align='center'>
   <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
+  
+<a href="https://www.linkedin.com/in/pierregett/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/DevelUps">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" />
+</a>
+<a href="mailto:pierregrandett@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/+573103131318">
+  <img src="https://img.shields.io/badge/WhatsApp-%2378E42C.svg?style=plastic&logo=whatsapp&logoColor=white" />
+</a>
 
-<h1 align="left">
+<h1 align="left" style="font-size: 20px; font-weight: bold;">
   About Me
 </h1>
+<p style="font-size: 12px; font-family: 'Arial', sans-serif; color: #333; line-height: 1.6; text-align: justify; margin: 10px 0;">
+  QA Software Engineer (SDET) and data analytics specialist with experience in manual and automated testing for web applications. Skilled in Postman, Swagger, Selenium, Katalon Studio, Azure DevOps, and xUnit, with knowledge of C#, Python, HTML, and JSON. Experienced in cybersecurity practices, data analysis, and working under agile methodologies. Focused on quality management, process optimization, and improving user experience across various TIC sectors and startups.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierregett/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevelUps)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierregrandett@gmail.com)
 
-## 🛠 Tecnologías & Herramientas
+## 🛠 Tecnologies and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -17,38 +30,41 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-## 📊 Estadísticas del Repositorio
+## 📊 Repository Statistics
 
 ![Pierre Grandett GitHub stats](https://github-readme-stats.vercel.app/api?username=DevelUps&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelUps&layout=compact&theme=dark)
 
 
-🚀 **QA Software Engineer (SDET) | Especialista en Analítica de Datos**
+🚀 **QA Software Engineer (SDET) | Data Analytics Specialist**
 
-- 🔹 Experto en **pruebas manuales y automatizadas** para aplicaciones web.
-- 🛠️ Trabajo con **Postman, Swagger, Selenium, Katalon Studio, Azure DevOps y xUnit**.
-- 💻 Conocimientos en **C#, Python, HTML, JSON**.
-- ⚡ Experiencia en **metodologías ágiles (Scrum, Kanban)** y prácticas de **ciberseguridad**.
-- 📊 Aplicación de **IA en QA** para optimización de procesos.
+- 🔹 **Manual and automated** testing for web applications..
+- 🛠️ Proficient in **Postman, Swagger, Selenium, Katalon Studio, Azure DevOps, and xUnit**.
+- 💻 Skills **C#, Python, HTML, JSON**.
+- ⚡ Agile methodologies**metodologías ágiles (Scrum, Kanban)** 
+- 🔐 Best practices **cybersecurity**.
+- 🤖 AI techniques **to optimize quality control** 2 years.
 
-## 💼 Experiencia Profesional
+## 💼 Latest Professional Experience
 
-### 🔹 Ingeniero de Automatización QA | Start Left™ Security (2023 - 2025)
-- Desarrollo y ejecución de **pruebas automatizadas**.
-- Integración con **Azure DevOps** y reportes de calidad.
+### 🔹QA Automation Engineer | Start Left™ Security
+- **Manual Testing 🛠️**.
+-  **Automation Testing with Postman 🛠️** .
+-  **Test Plans and Test Cases in Azure 📋** .
+-  **Recording and sharing processes with LICEcap 🎥** .
 
-### 🔹 Técnico de Diseño y Planeación | OPTECOM SAS (2021 - 2023)
-- Diseño de **soluciones en telecomunicaciones**.
-- Pruebas de calidad y aseguramiento técnico.
+### 🔹 FTTH Network Designand Planning  | OPTECOM SAS 
+- **Network design 📐**
+- **Feasibility analysis 🔍**
+- **Resource estimation 🧮**
+- **Network optimization ⚙️**
+- **Installation supervision 🛠️**
+- **Maintenance and support 🔧**
 
-### 🔹 QA Tester | DST (2017)
-- Pruebas funcionales y regresión para **aplicaciones web**.
-- Documentación de hallazgos y mejora continua.
+## 🎓 Education
 
-## 🎓 Educación
-
-- 📘 **Ingeniería en Desarrollo de Software** - Politécnico Grancolombiano (2024)
-- 📘 **Tecnología en ADSI** - SENA (2015)
-- 📘 **Técnico en ADSI** - Universidad Autónoma del Caribe (2013)
+- 📘 **Software Development Engineering** - Politécnico Grancolombiano (2024)
+- 📘 **Technology in ADSI** - SENA (2015)
+- 📘 **Technical Degree** - Universidad Autónoma del Caribe (2013)
 
 ## 🏆 Certificaciones
 
@@ -61,7 +77,13 @@
 ## 🎥 Últimos Videos en YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Explorando QA y Automatización 🚀💡](https://ytcards.demolab.com/?id=5B8thzFAX-I&title=Explorando+QA+y+Automatizaci%C3%B3n+%F0%9F%9A%80%F0%9F%92%A1&lang=en&timestamp=1739827376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=5B8thzFAX-I)
-[![Tips para pruebas automatizadas](https://ytcards.demolab.com/?id=GpPdRhQo0zc&title=Tips+para+pruebas+automatizadas&lang=en&timestamp=1739381523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=GpPdRhQo0zc)
+<a href="https://www.youtube.com/watch?v=AkDr2USeJZ8&list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--">
+  <img src="https://ytcards.demolab.com/?id=AkDr2USeJZ8&title=Testing+Step+by+Step&lang=en&timestamp=1739827376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
+</a>
+<a href="https://www.youtube.com/watch?v=EnnWDo7IgK8&list=PLLYWsphuMYKtNg8M0uJnNudGEtXeDsaNX">
+  <img src="https://ytcards.demolab.com/?id=EnnWDo7IgK8&title=Automation+Testing+With+Playwright&lang=en&timestamp=1739381523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
+</a>
+
+
 <!-- END YOUTUBE-CARDS -->
 
