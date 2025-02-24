@@ -1,8 +1,9 @@
 
   <p align='center' style="white-space: nowrap;">
   <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
-  
-  <a href="https://www.linkedin.com/in/pierregett/" style="display: inline-block;">
+   
+</p>
+<a href="https://www.linkedin.com/in/pierregett/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DevelUps" style="display: inline-block;">
@@ -14,7 +15,6 @@
   <a href="https://wa.me/+573103131318" style="display: inline-block;">
     <img src="https://img.shields.io/badge/WhatsApp-%2378E42C.svg?style=plastic&logo=whatsapp&logoColor=white" />
   </a>
-</p>
 
 <h1 align="left" style="font-size: 20px; font-weight: bold;">About Me</h1>
 QA Software Engineer (SDET) and data analytics specialist with experience in manual and automated testing for web applications. Proficient with tools like Postman, Selenium, Katalon Studio, Azure DevOps, and xUnit. Skilled in C#, Python, HTML, and JSON. I apply cybersecurity practices and agile methodologies to ensure high-quality, efficient solutions with a focus on user experience and process optimization..
