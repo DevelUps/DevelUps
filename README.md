@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/pierregett/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/DevelUps"><img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:pierregrandett@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/+573103131318" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-%2378E42C?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-%2378E42C?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 
