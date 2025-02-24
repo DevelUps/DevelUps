@@ -3,20 +3,18 @@
   <img src='https://raw.githubusercontent.com/DevelUps/DevelUps/master/Assets/banner-github-pierre-grandett.png' alt='Banner de Pierre Grandett' width='100%' />
    
 
-<p>
-  <a href="https://www.linkedin.com/in/pierregett/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DevelUps" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:pierregrandett@gmail.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/+573103131318" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/WhatsApp-%2378E42C?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<p dir="auto" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/pierregett/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a><a href="https://github.com/DevelUps">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a><a href="mailto:pierregrandett@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a><a href="https://wa.me/+573103131318" rel="nofollow">
+    <img src="https://img.shields.io/badge/WhatsApp-%2378E42C?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
+
 
 
 
