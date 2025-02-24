@@ -5,7 +5,6 @@
 
 <p dir="auto" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/pierregett/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/DevelUps"><img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:pierregrandett@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
  
 </p>
