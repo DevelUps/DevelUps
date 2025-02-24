@@ -19,7 +19,14 @@
 <h1 align="left" style="font-size: 20px; font-weight: bold;">About Me</h1>
 QA Software Engineer (SDET) and data analytics specialist with experience in manual and automated testing for web applications. Proficient with tools like Postman, Selenium, Katalon Studio, Azure DevOps, and xUnit. Skilled in C#, Python, HTML, and JSON. I apply cybersecurity practices and agile methodologies to ensure high-quality, efficient solutions with a focus on user experience and process optimization..
 
-### 
+## ⚡💪 Skills
+
+- 🔹 **Manual and automated** testing for web applications..
+- 🛠️ Proficient in **Postman, Swagger, Selenium, Katalon Studio, Azure DevOps, and xUnit**.
+- 💻 Skills **C#, Python, HTML, JSON**.
+- ⚡ Agile methodologies**metodologías ágiles (Scrum, Kanban)** 
+- 🔐 Best practices **cybersecurity**.
+- 🤖 AI techniques **to optimize quality control** 2 years.
 <h1 align="left" style="font-size: 20px; font-weight: bold;">🛠Tools</h1>
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -68,14 +75,7 @@ QA Software Engineer (SDET) and data analytics specialist with experience in man
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevelUps&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## ⚡💪 Skills
 
-- 🔹 **Manual and automated** testing for web applications..
-- 🛠️ Proficient in **Postman, Swagger, Selenium, Katalon Studio, Azure DevOps, and xUnit**.
-- 💻 Skills **C#, Python, HTML, JSON**.
-- ⚡ Agile methodologies**metodologías ágiles (Scrum, Kanban)** 
-- 🔐 Best practices **cybersecurity**.
-- 🤖 AI techniques **to optimize quality control** 2 years.
 
 ## 💼 Latest Professional Experience
 
