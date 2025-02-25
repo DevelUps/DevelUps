@@ -18,12 +18,12 @@ QA Software Engineer (SDET) and data analytics specialist with experience in man
 
 ## ⚡💪 Skills
 
-- 🔹 **Manual and automated** testing for web applications..
+- 🔹 **Manual and automated** testing for web applications.
 - 🛠️ Proficient in **Postman, Swagger, Selenium, Katalon Studio, Azure DevOps, and xUnit**.
 - 💻 Skills **C#, Python, HTML, JSON**.
-- ⚡ Agile methodologies**metodologías ágiles (Scrum, Kanban)** 
+- ⚡ **Agile methodologies  (Scrum, Kanban)**. 
 - 🔐 Best practices **cybersecurity**.
-- 🤖 AI techniques **to optimize quality control** 2 years.
+- 🤖 AI techniques **to optimize quality control**.
 <h1 align="left" style="font-size: 20px; font-weight: bold;">🛠Tools</h1>
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
