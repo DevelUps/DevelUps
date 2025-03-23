@@ -66,11 +66,13 @@ QA Software Engineer (SDET) and data analytics specialist with experience in man
 ## 📊 Repository Statistics
 
 <a href="https://github.com/DevelUps/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevelUps" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevelUps&cache_seconds=3600" />
 </a>
+
 <a href="https://github.com/DevelUps/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevelUps&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevelUps&layout=compact&langs_count=8&card_width=320&cache_seconds=3600" />
 </a>
+
 
 
 
